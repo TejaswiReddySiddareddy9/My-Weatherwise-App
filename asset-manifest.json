@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/My-Weatherwise-App/static/css/main.3f27af84.css",
+    "main.js": "/My-Weatherwise-App/static/js/main.4c162f9e.js",
+    "static/media/splash-icon.svg": "/My-Weatherwise-App/static/media/splash-icon.699b0bc5b331eb7ddb039683ec3decf4.svg",
+    "static/media/humidity.svg": "/My-Weatherwise-App/static/media/humidity.d49e9f30f5ed097d7ecdbfb6f2744835.svg",
+    "index.html": "/My-Weatherwise-App/index.html",
+    "main.3f27af84.css.map": "/My-Weatherwise-App/static/css/main.3f27af84.css.map",
+    "main.4c162f9e.js.map": "/My-Weatherwise-App/static/js/main.4c162f9e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3f27af84.css",
+    "static/js/main.4c162f9e.js"
+  ]
+}
